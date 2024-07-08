@@ -1,0 +1,16 @@
+{
+  "name": "devproxy-converters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "DEBUG=* node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.3.5"
+  }
+}
